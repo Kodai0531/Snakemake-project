@@ -1,5 +1,7 @@
 # Ignore all FASTQ files
 000.fastq/
+010.fastqc/
+020.bwa/
 *.fq
 *.bam
 *.vcf
