@@ -1,0 +1,6 @@
+# Ignore all FASTQ files
+000.fastq/
+*.fq
+*.bam
+*.vcf
+.snakemake/

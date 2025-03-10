@@ -1,0 +1,10 @@
+PASS	Basic Statistics	HG00128.GRCh38DH.exome.chr21.fq
+WARN	Per base sequence quality	HG00128.GRCh38DH.exome.chr21.fq
+PASS	Per sequence quality scores	HG00128.GRCh38DH.exome.chr21.fq
+PASS	Per base sequence content	HG00128.GRCh38DH.exome.chr21.fq
+WARN	Per sequence GC content	HG00128.GRCh38DH.exome.chr21.fq
+PASS	Per base N content	HG00128.GRCh38DH.exome.chr21.fq
+PASS	Sequence Length Distribution	HG00128.GRCh38DH.exome.chr21.fq
+PASS	Sequence Duplication Levels	HG00128.GRCh38DH.exome.chr21.fq
+PASS	Overrepresented sequences	HG00128.GRCh38DH.exome.chr21.fq
+PASS	Adapter Content	HG00128.GRCh38DH.exome.chr21.fq
