@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project implements a **SNP calling workflow** using **Snakemake**. The workflow processes sequencing data to extract SNPs from three specific genes: **APP, SOD1, and DYRK1A**. It ensures reproducibility, efficiency, and automation in bioinformatics analyses.
+- This project implements a **SNP calling workflow** using **Snakemake**. 
+- The workflow processes sequencing data to extract SNPs from three specific genes: **APP, SOD1, and DYRK1A**.
+
 
 ## Features
 
@@ -17,7 +19,7 @@ This project implements a **SNP calling workflow** using **Snakemake**. The work
 To execute the pipeline, run:
 
 ```bash
-snakemake --cores <num_cores>
+snakemake --cores <num_cores> 
 ```
 
 Or for cluster execution:
